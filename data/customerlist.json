@@ -1,0 +1,121 @@
+{
+        "__metadata": {
+          "uri": "https://my317725.crm.ondemand.com/sap/c4c/odata/v1/c4codata/AccountCollection('00163E03A0701ED28B9DB0247F85101D')",
+          "type": "c4codata.Account",
+          "etag": "W/\"datetimeoffset'2015-01-26T10%3A39%3A49.7624690Z'\""
+        },
+        "POBoxDeviatingRegionCode": "",
+        "RoleCode": "CRM000",
+        "AccountName": "HP",
+        "AccountName2": "",
+        "AccountName3": "",
+        "AccountName4": "",
+        "ObjectID": "00163E03A0701ED28B9DB0247F85101D",
+        "AccountID": "10332",
+        "UUID": "00163E03-A070-1ED2-8B9D-B0247F85101D",
+        "AccountFormattedName": "HP",
+        "MarketingLeadIndicator": false,
+        "PrimaryContactID": "1000394",
+        "PrimaryContactName": "Catherine Lesacher",
+        "OwnerUUID": "00163E03-A070-1EE2-88BA-37FB8F5F50A9",
+        "OwnerFormattedName": "Mike Summers",
+        "ChangedOn": "/Date(1422268789762)/",
+        "DUNS": "",
+        "CreatedOn": "/Date(1352743521301)/",
+        "CreatedBy": "Smoke",
+        "ChangedBy": "Summers",
+        "OwnerID": "E1000",
+        "StatusCode": "2",
+        "ABCClassificationCode": "B",
+        "LegalFormCode": "",
+        "NielsenID": "",
+        "ContactPermissionCode": "",
+        "CorrespondenceLanguageCode": "E",
+        "PreferredCommunicationMediumTypeCode": "",
+        "Phone": "+1 (650) 857-5518",
+        "Email": "c.lesjak@hp.com",
+        "Fax": "+1 (650) 857-5518",
+        "Mobile": "",
+        "Web": "",
+        "AdditionalStreetPrefixName": "",
+        "AdditionalStreetSuffixName": "",
+        "BuildingID": "",
+        "CareOfName": "",
+        "CityName": "Palo Alto",
+        "CountryCode": "US",
+        "CountyName": "",
+        "DistrictName": "",
+        "HouseID": "3000",
+        "POBoxDeviatingCityName": "",
+        "POBoxDeviatingCountryCode": "",
+        "POBoxID": "",
+        "POBoxPostalCode": "",
+        "StreetName": "Hanover Street",
+        "StreetPostalCode": "94304",
+        "StreetPrefixName": "",
+        "StreetSuffixName": "",
+        "TaxJurisdictionCode": "",
+        "TimeZoneCode": "PST",
+        "ETag": "/Date(1422268789762)/",
+        "CategoryCode": "2",
+        "RegionCode": "CA",
+        "IndustryCode": "44",
+        "POBoxDeviatingRegionCodeText": "",
+        "RoleCodeText": "Customer",
+        "StatusCodeText": "Active",
+        "ABCClassificationCodeText": "B-Account",
+        "LegalFormCodeText": "",
+        "NielsenIDText": "",
+        "ContactPermissionCodeText": "",
+        "CorrespondenceLanguageCodeText": "English",
+        "PreferredCommunicationMediumTypeCodeText": "",
+        "CountryCodeText": "United States",
+        "POBoxDeviatingCountryCodeText": "",
+        "POBoxPostalCodeText": "",
+        "StreetPostalCodeText": "",
+        "TaxJurisdictionCodeText": "",
+        "TimeZoneCodeText": "(UTC-08:00) Pacific Time (Los Angeles, Tijuana, Yukon)",
+        "CategoryCodeText": "Organization",
+        "RegionCodeText": "California",
+        "IndustryCodeText": "Retail trade",
+        "AccountContactRelationship": {
+          "__deferred": {
+            "uri": "https://my317725.crm.ondemand.com/sap/c4c/odata/v1/c4codata/AccountCollection('00163E03A0701ED28B9DB0247F85101D')/AccountContactRelationship"
+          }
+        },
+        "AccountTeam": {
+          "__deferred": {
+            "uri": "https://my317725.crm.ondemand.com/sap/c4c/odata/v1/c4codata/AccountCollection('00163E03A0701ED28B9DB0247F85101D')/AccountTeam"
+          }
+        },
+        "AccountRole": {
+          "__deferred": {
+            "uri": "https://my317725.crm.ondemand.com/sap/c4c/odata/v1/c4codata/AccountCollection('00163E03A0701ED28B9DB0247F85101D')/AccountRole"
+          }
+        },
+        "ExternalIDMapping": {
+          "__deferred": {
+            "uri": "https://my317725.crm.ondemand.com/sap/c4c/odata/v1/c4codata/AccountCollection('00163E03A0701ED28B9DB0247F85101D')/ExternalIDMapping"
+          }
+        },
+        "AccountAddress": {
+          "__deferred": {
+            "uri": "https://my317725.crm.ondemand.com/sap/c4c/odata/v1/c4codata/AccountCollection('00163E03A0701ED28B9DB0247F85101D')/AccountAddress"
+          }
+        },
+        "AccountSalesData": {
+          "__deferred": {
+            "uri": "https://my317725.crm.ondemand.com/sap/c4c/odata/v1/c4codata/AccountCollection('00163E03A0701ED28B9DB0247F85101D')/AccountSalesData"
+          }
+        },
+        "AccountAttachment": {
+          "__deferred": {
+            "uri": "https://my317725.crm.ondemand.com/sap/c4c/odata/v1/c4codata/AccountCollection('00163E03A0701ED28B9DB0247F85101D')/AccountAttachment"
+          }
+        },
+        "AccountNotes": {
+          "__deferred": {
+            "uri": "https://my317725.crm.ondemand.com/sap/c4c/odata/v1/c4codata/AccountCollection('00163E03A0701ED28B9DB0247F85101D')/AccountNotes"
+          }
+        }
+      }
