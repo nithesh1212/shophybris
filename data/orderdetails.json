@@ -13,10 +13,10 @@
         "formattedAddress": "test, test, test, 123456789, United Kingdom",
         "id": "8796125888535",
         "lastName": "Test",
-        "line1": "test",
-        "line2": "test",
-        "postalCode": "123456789",
-        "town": "test"
+        "line1": "5 Wall Street",
+        "line2": "24 Presedential way",
+        "postalCode": "06011",
+        "town": "Bristol"
     },
     "deliveryCost": {
         "currencyIso": "GBP",
