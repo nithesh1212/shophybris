@@ -69,7 +69,7 @@
             "stock": {
               "stockLevel": 6
             },
-            "url": "/Categories/Streetwear-men/T-Shirts-men/Because-Tee-SS/p/300737506"
+            "url": "https://kore.demo.hybris.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjU4fGltYWdlL2pwZWd8aW1hZ2VzL2hkOC9oMGYvODc5NzE2MDg2NTgyMi5qcGd8Y2ZkNjdjNDI3NmM0NDFiZWE5MGZiZTc1NGU1MjYzMjg1ZTJmYTNmOGM4YmI5MzA1MGFjMjVkYjk0NjliYTljOA"
           },
           "quantity": 1,
           "totalPrice": {
@@ -88,7 +88,7 @@
             "stock": {
               "stockLevel": 18
             },
-            "url": "/Categories/Streetwear-men/T-Shirts-men/Jackson-Tee-SS/p/300613369"
+            "url": "https://kore.demo.hybris.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjg2fGltYWdlL2pwZWd8aW1hZ2VzL2g5MC9oNTYvODc5NzE2MjE3NjU0Mi5qcGd8NzZmYWI3ZGM4NmI0YTI1NmYyMmFiZDIzNTc3NTE2YWM5OTM4ZWE0MmRmZjg5MTBjZGQ1NmJmYWQxNGUxYWI0MQ"
           },
           "quantity": 1,
           "totalPrice": {
@@ -359,7 +359,7 @@
               "stock": {
                 "stockLevel": 11
               },
-              "url": "/Categories/Streetwear-men/T-Shirts-men/Eclipse-Tee-SS/p/300737425"
+              "url": "https://kore.demo.hybris.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjMwfGltYWdlL2pwZWd8aW1hZ2VzL2gxNi9oZTcvODc5NzE1NDk2NzU4Mi5qcGd8ZjZhM2QyYTZkN2M4Yjc1MTUzYmIzNzZiYzA5NGE1MjEwNWFhYmE0MWNjZjE5ZGUwZjQ1YWZhNjY5NDFmMWIwOA"
             },
             "quantity": 1,
             "totalPrice": {
@@ -391,4 +391,3 @@
   "status": "READY",
   "statusDisplay": "processing",
   "unconsignedEntries": []
-}
